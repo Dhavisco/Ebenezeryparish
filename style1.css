@@ -1,0 +1,329 @@
+.navbar{
+    background-color: rgba(1, 1, 48, 0.959);
+    margin:0%;
+   padding: 2rem .7rem;
+    border-radius: 0%;
+    
+    text-decoration:none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+   padding: .7rem .4rem;
+    border-radius: 0%;
+}
+.site-logo{
+color: rgb(0, 3, 184);
+font-family: fontawesome;
+font-size: 28px;
+font-weight: 650;
+padding: 1rem;
+height: 7px;
+text-decoration: none;
+
+ word-spacing: -6.5px ;
+
+}
+.ccc-logo{
+height: 40px;
+width: 66.2px;
+padding-right:0.5rem;
+}
+
+
+.details{
+    background-image: url('asset/centralchoir.jpg');
+    background-size: cover;
+    resize: both;
+    width: 100%;
+    height: 400px;
+  
+}
+.details-info{
+    
+    padding-top: 50px;
+    font-size: 15px;
+    color: rgb(223, 226, 7);
+    font-weight: 600;
+    padding-left: 150px;
+    padding-right: 150px;
+   
+    margin:none;
+}
+.details-head{
+    font-size: 40px;
+    font-weight: 600;
+    word-spacing: .5px;
+    letter-spacing: .5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 3, 54);
+    padding-bottom: 20px;
+}
+.details-p{
+    line-height: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: initial;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.carousel-inner{
+    
+}
+
+.carousel-caption h1{
+    font-size: 30px;
+    color: rgba(33, 33, 100, 0.801);
+    text-align: right;
+}
+
+.carousel-caption p{
+font-size:20px;
+text-align: right;
+color: brown;
+}
+.welcome{
+    padding-top: 150px;
+    padding-left:30px;
+    padding-bottom: 170px;
+    background-color:rgb(245, 242, 241);
+    line-height: 32px;
+    letter-spacing: .7px;
+    font-weight: 300;
+    font-size: 21px; 
+    font-family: fontawesome;
+}
+.welcome-h{
+    font-weight: bold;
+    font-size: 18px;
+color:rgba(150, 0, 0, 0.973);
+padding-bottom: 15px;
+padding-top: 50px;
+}
+.download{
+    padding-top: 10px;
+
+}
+.download-p{
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    word-spacing: -.7.5px;
+    color: rgba(14, 13, 13, 0.76);
+    padding-bottom: 10px;
+}
+.download-btn{
+    background-color: DodgerBlue;
+    border: none;
+    color: rgba(245, 229, 10, 0.932);
+    padding: 12px;
+    margin-left: 40px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: Poppins;
+   position: relative;
+   width: 75%;
+}
+.Aboutus{
+    padding: 20px 30px;
+    text-align: left;
+    text-decoration: none;
+    color:rgba(250, 250, 250, 0.986);
+    font-size: 23px;
+    font-weight: 600;
+    background-color: rgba(28, 28, 90, 0.986);
+    font-family: 'Times New Roman', Times, serif;
+}
+.briefhistory{
+    padding-top: 60px;
+    padding-left:30px;
+    padding-bottom: 120px;
+    background-color:rgba(255, 255, 255, 0.945);
+    line-height: 20.4px;
+    letter-spacing: .7px;
+    font-weight: 300;
+    font-size: 17px; 
+    font-family: fontawesome;
+}
+.briefhistory-h{
+    font-weight: bold;
+    font-size: 16.5px;
+color:rgba(98, 71, 252, 0.925);
+padding-bottom: 10px;
+padding-top: 20px;
+}
+table, th, td {
+    border: 1.5px solid rgba(51, 51, 51, 0.349);
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 13.5px;
+  }
+.thecreed{
+    margin-left: 10px;
+    padding-top: 25px;
+}
+.thecreed-head{
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+blockquote{
+    border-left: 3.5px solid rgba(3, 3, 121, 0.904);
+}
+.vl {
+    border-left: 3.5px solid rgba(3, 3, 121, 0.904);
+    height: 600px;
+}
+.word{
+    padding: 20px;
+    font-family: cursive;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.897);
+}
+.event{
+    padding: 60px 40px;
+    line-height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 550;
+    letter-spacing: 1.2px;
+    color: rgb(7, 0, 0);
+}
+#event-head{
+    color: rgb(2, 0, 0);
+    font-size: 25px;
+    font-weight: 520;
+
+}
+.event-title{
+    font-weight: 600;
+    padding-bottom: 20px;
+    padding-top: 25px;
+    color: rgb(32, 0, 0);
+}
+.event-sub{
+    font-weight: 500;
+    font-size:12px;
+}
+hr{
+border-top: 1px solid rgba(63, 63, 63, 0.384);
+width: 85%;
+margin-left: 0%;
+}
+.section{
+    
+    line-height: 35px;
+}
+#socialmedia{
+    padding: 100px 50px;
+    background-color: rgba(0, 0, 0, 0.925);
+    font-weight: bold;
+    font-size: 15px; 
+}
+
+#socialmedia a{
+    padding: 20px;
+    font-size: 35px;
+    text-decoration: none;
+}
+
+#contact{
+    background-color:rgba(12, 1, 1, 0.925); 
+    padding: 100px 50px;
+}
+.form-control{ 
+    background-color: rgba(243, 241, 241, 0.966);
+
+}
+.footer{
+    padding: 100px;
+    background-color:rgba(46, 1, 1, 0.932);
+    font-size: 15px;
+    line-height: 25px; 
+    color: rgba(202, 199, 199, 0.562);
+}
+.footer h3{
+    color: white;
+    font-size: 15.2px;
+    letter-spacing: 3.5px;
+}
+.footer a{
+    text-decoration: none;
+    color: rgba(202, 199, 199, 0.562);
+    
+}
+
+ .ico{
+     padding: 20px;
+     color: white;
+     font-size: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     text-decoration: none;
+
+}
+.album{
+   padding-left: 27px;
+}
+.album-h{
+    font-family: fontawesome;
+    font-weight: 600;
+    color: rgba(116, 7, 7, 0.952);
+}
+.Tracks{
+    font-family: fontawesome;
+    font-weight: 600;
+    color: rgba(73, 0, 0, 0.952);
+    padding-left: 8.5px;
+    font-size: large;
+}
+
+
+/*--Media Queries --*/
+@media(max-width: 576px){
+    .carousel-caption h1{
+        font-size: 15px;
+        font-weight: 650;
+        color: rgba(33, 33, 100, 0.842);
+        text-align: right;
+        margin-bottom:0%;
+}
+.carousel-caption p{
+    font-size:13px;
+    font-weight: 550;
+    text-align: right;
+    color: rgba(160, 23, 23, 0.9);
+    }
+}
+@media(max-width: 576px){
+    .details{
+        background-image: url('asset/centralchoir.jpg');
+        background-size: contain;
+        resize: both;
+        width: 100%;
+        height: 280px;
+      
+    }
+    .details-info{
+        padding: 15px 20px;
+        padding-top: 20px;
+        font-size: 13px;
+        color: #d3cf08;
+        font-weight: 600;
+       
+    
+       
+        margin:none;
+    }
+    .details-head{
+        font-size: 30px;
+        font-weight: 600;
+        word-spacing: .5px;
+        letter-spacing: .5px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(4, 3, 54);
+    }
+    .details-p{
+        line-height: 25px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-style: initial;
+        font-size: 15px;
+    }
+}
